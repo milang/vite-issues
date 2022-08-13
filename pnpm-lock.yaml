@@ -12,7 +12,7 @@ importers:
     specifiers:
       '@types/react': ^18.0.17
       '@types/react-dom': ^18.0.6
-      '@vitejs/plugin-react': 2.0.1
+      '@vitejs/plugin-react': 2.0.0
       acme-lib: workspace:*
       react: ^18.2.0
       react-dom: ^18.2.0
@@ -21,7 +21,7 @@ importers:
     devDependencies:
       '@types/react': 18.0.17
       '@types/react-dom': 18.0.6
-      '@vitejs/plugin-react': 2.0.1_vite@3.0.7
+      '@vitejs/plugin-react': 2.0.0_vite@3.0.7
       acme-lib: link:../acme-lib
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
@@ -372,9 +372,9 @@ packages:
     resolution: {integrity: sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==}
     dev: true
 
-  /@vitejs/plugin-react/2.0.1_vite@3.0.7:
-    resolution: {integrity: sha512-uINzNHmjrbunlFtyVkST6lY1ewSfz/XwLufG0PIqvLGnpk2nOIOa/1CACTDNcKi1/RwaCzJLmsXwm1NsUVV/NA==}
-    engines: {node: ^14.18.0 || >=16.0.0}
+  /@vitejs/plugin-react/2.0.0_vite@3.0.7:
+    resolution: {integrity: sha512-zHkRR+X4zqEPNBbKV2FvWSxK7Q6crjMBVIAYroSU8Nbb4M3E5x4qOiLoqJBHtXgr27kfednXjkwr3lr8jS6Wrw==}
+    engines: {node: '>=14.18.0'}
     peerDependencies:
       vite: ^3.0.0
     dependencies:
