@@ -1,0 +1,11 @@
+{
+  "name": "vite-issues",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "prettier": {
+    "quoteProps": "preserve",
+    "trailingComma": "none"
+  }
+}
